@@ -4,16 +4,17 @@
 
 ## 📊 About the Project
 
-An interactive **Banking Analytics Dashboard** built using **Microsoft Power BI** to analyze customers, loans, accounts, transactions, and credit metrics.
+This project is an interactive **Banking Analytics Dashboard developed using Microsoft Power BI**.  
+It provides a clear view of customer distribution, loan performance, account types, transactions, branches, and credit-related metrics.
 
-## 🛠️ Tools Used
+## 🔧 Tools & Technologies
 
-- Power BI
-- Power Query
-- DAX
-- Excel
+- **Microsoft Power BI** – Dashboard development and data visualization
+- **Power Query** – Data cleaning and transformation
+- **DAX** – Creating calculated measures and KPIs
+- **Microsoft Excel** – Dataset
 
-## 📈 Dashboard Highlights
+## 📈 Key Analysis
 
 - Customer Distribution by City
 - Account Type Distribution
@@ -21,7 +22,7 @@ An interactive **Banking Analytics Dashboard** built using **Microsoft Power BI*
 - Loan Status Overview
 - Transaction Type Analysis
 - Account Balance by Branch
-- Credit Score Metrics
+- Credit Metrics
 
 ## 👩‍💻 Author
 
